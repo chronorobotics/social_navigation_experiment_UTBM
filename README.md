@@ -1,1 +1,1 @@
-# social_navigation_experiment_UTBM
+# UTBM social-aware navigation experiment
