@@ -7,4 +7,4 @@ We are experimentally verifying a new benchmarking methodology of spatio-tempora
 
 ### References
 
-1. Vintr, Molina et al: <b>[Time-varying pedestrian flow models for service robots](https://raw.githubusercontent.com/chronorobotics/published/2019_ecmr_flows.pdf)</b>  In proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2016. [[bibtex](https://raw.githubusercontent.com/chronorobotics/published/2019_ecmr_flows.bib)]
+1. Vintr, Molina et al: <b>[Time-varying pedestrian flow models for service robots](https://github.com/chronorobotics/published/blob/master/2019_ecmr_flows.pdf)</b>  In proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2016. [[bibtex](https://github.com/chronorobotics/published/blob/master/2019_ecmr_flows.bib)]
